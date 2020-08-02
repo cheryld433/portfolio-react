@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.238a3728.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.dac1da30.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.dac1da30.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.c94dc782.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.c94dc782.js.map",
+    "static/css/2.11b894de.chunk.css": "/portfolio-react/static/css/2.11b894de.chunk.css",
+    "static/js/2.1cbc55bf.chunk.js": "/portfolio-react/static/js/2.1cbc55bf.chunk.js",
+    "static/js/2.1cbc55bf.chunk.js.map": "/portfolio-react/static/js/2.1cbc55bf.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "precache-manifest.99f0d06181257f092e18b165f94ecf25.js": "/portfolio-react/precache-manifest.99f0d06181257f092e18b165f94ecf25.js",
+    "service-worker.js": "/portfolio-react/service-worker.js",
+    "static/css/2.11b894de.chunk.css.map": "/portfolio-react/static/css/2.11b894de.chunk.css.map",
+    "static/css/main.238a3728.chunk.css.map": "/portfolio-react/static/css/main.238a3728.chunk.css.map",
+    "static/js/2.1cbc55bf.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.1cbc55bf.chunk.js.LICENSE.txt",
+    "static/media/Homemade.png": "/portfolio-react/static/media/Homemade.1dc17bfc.png",
+    "static/media/Me.jpeg": "/portfolio-react/static/media/Me.380ea3f9.jpeg",
+    "static/media/budget-tracker.png": "/portfolio-react/static/media/budget-tracker.7e772f4e.png",
+    "static/media/burger.png": "/portfolio-react/static/media/burger.612b1486.png",
+    "static/media/cheryl_daniels.pdf": "/portfolio-react/static/media/cheryl_daniels.36dee2f0.pdf",
+    "static/media/Home.css": "/portfolio-react/static/media/homeBackground1.3ad2a364.png",
+    "static/media/notetaker.png": "/portfolio-react/static/media/notetaker.477918f3.png",
+    "static/media/react-bootstrap-carousel.css": "/portfolio-react/static/media/react-bootstrap-carousel.f7448c04.ttf",
+    "static/media/react-directory.png": "/portfolio-react/static/media/react-directory.30ab80cb.png",
+    "static/media/red-planet.png": "/portfolio-react/static/media/red-planet.bcbaa58d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c94dc782.js",
+    "static/css/2.11b894de.chunk.css",
+    "static/js/2.1cbc55bf.chunk.js",
+    "static/css/main.238a3728.chunk.css",
+    "static/js/main.dac1da30.chunk.js"
+  ]
+}
